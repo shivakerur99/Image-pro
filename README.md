@@ -1,4 +1,6 @@
-# I tested 4 models for this assignement 
-# kindly check out each collab they are not visible on github because they are too large to display kindly download it and view it 
-# i have also uploaded pdf format of collab to view it on github 
-# i have also wrote lora script for pretrained model 
+# I tested 4 models for this assignment 
+# kindly check out each collab they are not visible on GitHub because they are too large to display kindly download it and view it 
+# I have also uploaded the pdf format of the collab to view it on GitHub 
+# I have also written Lora script for a pre-trained model 
+i have also uploaded report for best model please check it out
+
